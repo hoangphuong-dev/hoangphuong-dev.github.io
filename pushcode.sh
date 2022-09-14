@@ -4,9 +4,8 @@
 
 git add .
 
-git commit -m "Phuong updated"
+git commit --amend
 
-
-git push
+git push -f
 
 exit
